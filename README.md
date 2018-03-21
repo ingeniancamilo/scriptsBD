@@ -1,0 +1,2 @@
+# scriptsBD
+script de oracle
